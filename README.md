@@ -1,6 +1,8 @@
 # my-rdv
 
-> Manage your RDV with vue and Electron
+> Manage your RDV with vue and Electron.
+
+>The repo for the backend is available at https://github.com/abdennour001/my-rdv-api
 
 #### Build Setup
 
