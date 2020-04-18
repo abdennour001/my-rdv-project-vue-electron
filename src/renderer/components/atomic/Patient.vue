@@ -8,8 +8,8 @@
         <td>{{ email }}</td>
         <td>{{ info }}</td>
         <td>
-            <router-link :to="{ path: '/appointments/' + id + '/edit' }" class="btn btn-outline-primary">Consulter</router-link>
-            <button class="btn btn-outline-danger ml-2 margin-top-small" @click="deletePatient">Delete</button>
+            <router-link :to="{ path: '/patients/' + id }" class="btn text-primary">Consulter</router-link>
+            <button class="btn text-danger ml-2 margin-top-small" @click="deletePatient">Delete</button>
         </td>
     </tr>
 </template>
