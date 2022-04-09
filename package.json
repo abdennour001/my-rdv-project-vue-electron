@@ -54,7 +54,7 @@
     "axios": "^0.18.1",
     "bootstrap": "^4.4.1",
     "jquery": "^3.5.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "popper.js": "^1.16.1",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6",
